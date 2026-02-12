@@ -39,7 +39,7 @@ Me gusta aprender nuevas herramientas y trabajar en proyectos que me reten const
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/eduardo-jauregui-0524ba266/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-jauregui-0524ba266/)
 [![Portafolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduardojauregui.42web.io/)
 
 ---
